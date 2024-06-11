@@ -3,7 +3,7 @@
 ## Introduction
 Resume/CV Scanner is a Streamlit application that scans resumes and determines the best matching job domain based on the skills listed in the document. This application uses BERT models and Spacy for natural language processing to provide insights into which domain best fits the resume content.
 
-## Hosted App : [Resume/CV Scanner](https://huggingface.co/spaces/liberatoratif/CareerMatcher)
+#### Hosted App : [Resume/CV Scanner](https://huggingface.co/spaces/liberatoratif/CareerMatcher)
 
 ## Table of Contents
 - [Introduction](#introduction)
