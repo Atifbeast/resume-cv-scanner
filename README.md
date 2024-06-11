@@ -93,7 +93,7 @@ Upload a sample `.docx` resume file and click 'SCAN 📝' to see the application
 - Check that your resume file is in `.docx` format.
 
 ## Contributors
-- [Your Name](https://github.com/mo-atiff)
+- [My Github](https://github.com/mo-atiff)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
